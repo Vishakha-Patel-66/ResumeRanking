@@ -33,4 +33,5 @@ It helps HR professionals save time by automating the resume screening process.
 
 ## ⚙️ How to Run
 ```bash
+pip install -r requirements.txt
 streamlit run codeProject.py
