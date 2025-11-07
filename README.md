@@ -1,7 +1,6 @@
-# AI-Resume-Ranking
+# AI Resume Ranking
 “An AI-based resume ranking system using NLP and cosine similarity.”
 
-# 🤖 AI Resume Ranking System
 
 This project uses **Natural Language Processing (NLP)** and **Machine Learning** to automatically match and rank candidate resumes with job descriptions using **TF-IDF** and **Cosine Similarity**.  
 It helps HR professionals save time by automating the resume screening process.
