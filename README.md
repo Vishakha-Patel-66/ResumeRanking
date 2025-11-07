@@ -8,7 +8,7 @@ It helps HR professionals save time by automating the resume screening process.
 ---
 
 ## 🚀 Features
-- Upload and analyze resume & job datasets
+- Upload and analyze above resume & job datasets
 - Rank resumes based on skill matching  
 - Interactive Streamlit dashboard  
 - Visual insights using Plotly charts (Histogram, Line, Bubble, Bar)  
